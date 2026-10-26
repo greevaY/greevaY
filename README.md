@@ -2,14 +2,7 @@
 
 CS @ Drexel University. I build data pipelines, cloud infrastructure, and full-stack tools.
 
-<img src="https://img.shields.io/badge/Python-F48FB1?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-F48FB1?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F48FB1?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-F48FB1?style=flat-square&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/dbt-F48FB1?style=flat-square&logo=dbt&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-F48FB1?style=flat-square&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-F48FB1?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-F48FB1?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<p><img src="https://img.shields.io/badge/Python-F48FB1?style=flat-square"/> <img src="https://img.shields.io/badge/TypeScript-F48FB1?style=flat-square"/> <img src="https://img.shields.io/badge/JavaScript-F48FB1?style=flat-square"/> <img src="https://img.shields.io/badge/AWS-F48FB1?style=flat-square"/> <img src="https://img.shields.io/badge/dbt-F48FB1?style=flat-square"/> <img src="https://img.shields.io/badge/Terraform-F48FB1?style=flat-square"/> <img src="https://img.shields.io/badge/Next.js-F48FB1?style=flat-square"/> <img src="https://img.shields.io/badge/Node.js-F48FB1?style=flat-square"/></p>
 
 **Projects**
 
