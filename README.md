@@ -1,6 +1,6 @@
-### Hi, I'm Greeva
+### Hi, I'm Greeva!
 
-CS @ Drexel University. I build data pipelines, cloud infrastructure, and full-stack tools.
+CS & Fin @ Drexel University. I build data pipelines, cloud infrastructure, and full-stack tools.
 
 <p><img src="https://img.shields.io/badge/Python-F48FB1?style=flat-square"/> <img src="https://img.shields.io/badge/TypeScript-F48FB1?style=flat-square"/> <img src="https://img.shields.io/badge/JavaScript-F48FB1?style=flat-square"/> <img src="https://img.shields.io/badge/AWS-F48FB1?style=flat-square"/> <img src="https://img.shields.io/badge/dbt-F48FB1?style=flat-square"/> <img src="https://img.shields.io/badge/Terraform-F48FB1?style=flat-square"/> <img src="https://img.shields.io/badge/Next.js-F48FB1?style=flat-square"/> <img src="https://img.shields.io/badge/Node.js-F48FB1?style=flat-square"/></p>
 
